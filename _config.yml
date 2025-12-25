@@ -1,0 +1,8 @@
+title: Scribbles
+theme: cayman  # Or 'minima' or 'architect'
+
+# This tells Jekyll to treat the root folder as a collection
+collections:
+  stories:
+    output: true
+    directory_path: ""

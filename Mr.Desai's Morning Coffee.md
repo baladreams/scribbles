@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Mr. Desai's Morning Kaapi"
+order: 2
+---
+
 # Mr. Desai's Morning Kaapi
 
 It cannot be overstated that Mr.Desai was a creature of habit: so regular, so punctual, so predictable was he. It was said by many that it was 6 o' clock when Mr.Desai visited Rangan's coffee stall, instead of saying Mr. Desai visits Rangan's coffee stall at 6 o' clock. Mr.Desai's life had been dull, predictable and predictably dull for the last two decades: He was at Rangan's coffee shop at 6 o'clock , at the bus stop at 8'o clock, at his desk in his office at 10'o clock, at one of the various tiffin centers littering the streets at 6'o clock , and snoring in his bed by 9 o' clock. The rains might disappoint expectant Chennai residents time and again, but Mr.Desai never did.

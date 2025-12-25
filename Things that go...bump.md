@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Things that go...bump"
+order: 1
+---
+
 # Things that go...bump
 
 She woke with a start. That in itself was not unusual. She was one of those who bore a rare curse: the bed is always a bit too cold and covers are always a bit too warm, every position she settled in was equally uncomfortable, beds were at once too hard or too soft - or too right. Sleep was always slow coming and always seemed to be on edge, eager to be elsewhere. So she was used to waking at odd hours.

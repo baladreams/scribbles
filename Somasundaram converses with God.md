@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Somasundaram converses with God"
+order: 3
+---
+
 # Somasundaram converses with God
 
 As a little boy Somasundaram went to Kapaali temple with his paati everyday. His paati told him 'Somasundaram, see this Nandi? when you whisper your wishes to it, he communicates it to God, so God can personally attend to it.' Somasundaram's eyes grew wide with wonder. He drew tentatively closer to the Nandi, put his lips to its ear, and dramatically whispered 'Can you please tell god I would like a chocolate today? I have been a good boy!'. And lo and behold, as he went home what did his paati produce but a whole chocolate bar! Miracles do happen. They happen almost everyday.
