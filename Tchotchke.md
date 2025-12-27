@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Tchotchke"
+order: 4
+---
+
 # Tchotchke
 
 Margaret reclined on her couch, the queen dragon amidst her own special treasure hoard. She surveyed her prizes with practiced grace. The shining bakelite phone shaped like a frog: a favourite of hers from when her friend stopped talking with her over a disagreement. The trophies lining the shelf above her television: each from a time when a raise had been yanked from under her at work. The foamy, soft, designer slippers to keep her warm: from when her husband - well now ex-husband - first left the house; things had been cold for a while before then. 
